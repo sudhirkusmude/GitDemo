@@ -13,4 +13,5 @@ def primary_num():
             prime_n.append(num)
     print(prime_n)
 primary_num()
+print()
 
